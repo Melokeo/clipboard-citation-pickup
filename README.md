@@ -1,5 +1,6 @@
 # clipboard-citation-pickup
 Written after losing track of numerous references when preparing slides.
+
 A light app that listens to clipboard events and picks up copied citations for easy management.
 ## Dependencies
 ```bash
